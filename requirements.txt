@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+scipy
+scikit-learn
+scikit-image
+SimpleITK
+trimesh
+matplotlib

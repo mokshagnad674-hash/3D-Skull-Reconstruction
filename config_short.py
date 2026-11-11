@@ -1,0 +1,3 @@
+CT_DIR = r"d:\ML_DATASET\CT"
+MASK_DIR = r"d:\ML_DATASET\mask"
+BATCH_SIZE, EPOCHS, LR = 1, 50, 5e-4
